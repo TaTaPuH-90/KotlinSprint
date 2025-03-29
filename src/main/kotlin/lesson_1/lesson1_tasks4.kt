@@ -1,4 +1,5 @@
 package org.example.lesson_1
+
 fun main() {
 
     val length: Long = 4086800000L
@@ -13,5 +14,5 @@ fun main() {
     println(partOfDay)
     println(seconds)
     println(partOfYear)
-    println(apogee)
+    println("$apogee")
 }
